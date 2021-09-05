@@ -10,6 +10,7 @@ features such as season, speed tier, and time scope are generated based on relat
 to evaluate the interpretability of each feature, feature importance and sharply value are adopted. using different methods to measure is the way to cross compare for a comprehensive and integral evaluation
 
 all plots depicted by feature importance and sharply value indicate weak contributions for season, speed tier, and time scope
+
 2. ###modeling
 features after the processing feed to the model. records in 2019 are split as test set. catboost is suggested in this context. here is the metric
 ![](./metric.png)

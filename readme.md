@@ -13,6 +13,7 @@ all plots depicted by feature importance and sharply value indicate weak contrib
 
 2. ### modeling
 features after the processing feed to the model. records in 2019 are split as test set. catboost is suggested in this context. here is the metric
+
 ![](./metric.png)
 
 the model seems to well fit data, but the model decay might be inevitable because of insufficient and unbalanced training set

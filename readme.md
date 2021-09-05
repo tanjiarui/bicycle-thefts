@@ -11,8 +11,7 @@ to evaluate the interpretability of each feature, feature importance and sharply
 
 all plots depicted by feature importance and sharply value indicate weak contributions for season, speed tier, and time scope
 
-2. ###modeling
-
+2. ### modeling
 features after the processing feed to the model. records in 2019 are split as test set. catboost is suggested in this context. here is the metric
 ![](./metric.png)
 
